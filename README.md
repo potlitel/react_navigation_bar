@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and looks like follows
+
+<img src="images/Resume.gif" alt="Logo" width="840" height="480">s
 
 ## Available Scripts
 
